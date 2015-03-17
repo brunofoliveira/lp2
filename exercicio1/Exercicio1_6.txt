@@ -1,0 +1,7 @@
+A diferença é: 
+
+No exercício 3, usando INT, as operações que não possuem um resultado inteiro não permite que seja impresso o valor completo, mas apenas o valor inteiro da operação.
+
+No exercíco 4, usando FLOAT, as operações, além de realizar a operação por completo, ele possui de 6 a 7 digitos de precisão.
+
+No exercício 5, usando DOUBLE, as operações, além de realizar a operação por completo, ele possui de 14 a 15 digitos de precisão.
