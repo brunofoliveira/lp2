@@ -1,0 +1,20 @@
+O que foi impresso na tela:
+
+7
+10.5
+10.0
+Variavel 4 é maior que 10.0.
+Variavel 5 é menor igual a 10.0.
+
+
+Justificativa: 
+
+
+Inicialmente, dividiu-se como INT a variavel1 pela variavel2 (variavel3), que resultou em 7. Após isso, dividiu-se variavel1 como FLOAT por 2 usando a tag (float) para que o resultado mostrasse o resultado em decimal. Na variavel5, dividiu-se inteiramente variavel1 por 2, resultando um valor inteiro, que foi 10.0. 
+
+
+No primeiro if passou para o ELSE porque variavel4 é maior que 10.
+
+O segundo if foi verdadeiro, já que variavel5 é menor ou igual a 10.  
+
+ 
