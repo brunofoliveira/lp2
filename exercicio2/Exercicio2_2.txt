@@ -1,0 +1,1 @@
+A palavra-chave "new" é um construtor e é utilizada para instanciar um objeto, ou seja, alocar um espaço na memória. Portanto, ao usá-la devidamente, um novo objeto é criado/construído.
