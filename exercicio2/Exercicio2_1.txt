@@ -1,0 +1,7 @@
+Tipo Abstrato de Dados: É um conjunto de dados, operadores que são armazenados, podendo ser usados para a manipulação de dados. Tem como proposta reduzir a informação necessária para programar através da abstração.
+
+Classe: É um tipo abstrato de dados. Pode ser definida como estática porque "sozinha" não faz/executa nada. Esta possui metódos e atributos.
+
+Objeto: É a materialização da classe (instância), onde alocamos memória para este existir. São os elementos de uma classe.
+
+Métodos: Representações de estados e ações de objetos e/ou classes, definindo como o programa irá comportar.
