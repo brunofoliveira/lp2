@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CPF {
+public class VerificadorCpf {
 
     public int[] vetor = new int[11];
 
@@ -18,7 +18,7 @@ public class CPF {
     }
 
     public void achaX() {
-        int peso = 10, soma = 0
+        int peso = 10, soma = 0;
         int x = 0, resto1 = 0;
         
         for (int i = 0; i <= 8; i++) {
@@ -57,7 +57,7 @@ public class CPF {
 
     public static void main(String[] args) {
 
-        CPF cpf = new CPF();
+        VerificadorCpf cpf = new VerificadorCpf();
         cpf.converteCPF();
         cpf.achaX();
         cpf.achaY();
